@@ -1,2 +1,4 @@
 # Listas-C
-Ejemplo listas enlazadas en C
+Ejemplo de listas enlazadas hecho en C
+
+Listas simples, dobles y circulares (todas independientes)
